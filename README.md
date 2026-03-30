@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi there, I'm Vardhan Reddy!
 
-<!--
-**vardanreddy256/vardanreddy256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🔭 I’m currently working on **DevOps Projects & CI/CD Pipelines**
+* 🌱 I’m currently learning **DevOps, Cloud (AWS), Docker, Kubernetes**
+* 👯 I’m looking to collaborate on **DevOps & Cloud-based projects**
+* 🤔 I’m looking for help with **Kubernetes, Terraform & Advanced CI/CD**
+* 💬 Ask me about **Docker, Jenkins, GitHub Actions, Linux**
+* 📫 How to reach me:
 
-Here are some ideas to get you started:
+  * Email: [vardanreddydevalapalli@gmail.com](mailto:vardanreddydevalapalli@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 😄 Pronouns: He/Him
+* ⚡ Fun fact: I enjoy building real-time DevOps projects and automating workflows 🚀
